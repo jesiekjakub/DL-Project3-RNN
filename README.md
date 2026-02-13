@@ -24,8 +24,8 @@ Deep learning system for detecting multiple simultaneous defects in time-series 
 
 ```bash
 # Clone repository
-git clone https://github.com/jesiekjakub/DL-Project3-RNN.git
-cd DL-Project3-RNN
+git clone https://github.com/jesiekjakub/rnn-defect-detection.git
+cd rnn-defect-detection
 
 # Install uv (if not already installed)
 curl -LsSf https://astral.sh/uv/install.sh | sh
